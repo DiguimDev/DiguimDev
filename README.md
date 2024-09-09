@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Thauan Rodrigues from Brazil<br><br>- 🔭 I’m Study in Federal University of Goiás.<br>- 📚 I'm currently learning Java, SpringBoot, MySQL, Docker.<br>- ⚡ In my free time I like studying programming languages</p>
+<p align="left">I'm Thauan Rodrigues from Brazil<br><br>- 🔭 I’m Study in Federal University of Goiás.<br>- 📚 I'm currently learning Java, SpringBoot, MySQL, Docker.<br>- ⚡ In my free time I like studying programming languages.</p>
 
 ###
 
